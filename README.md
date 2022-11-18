@@ -1,4 +1,4 @@
-# WeatherApp Clima ☁ by Mohamed Sobhy
+# Flutter WeatherApp Clima ☁ by Mohamed Sobhy
 
 ## Goal
 
