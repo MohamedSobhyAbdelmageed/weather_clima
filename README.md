@@ -14,17 +14,17 @@ By the end of the module, you'll be able to find out the live weather data in th
 
 ## What done in App
 
-- How to use Dart to perform asynchronous tasks.
-- Understand async and await.
-- Learn about Futures and how to work with them.
-- How to network with the Dart http package.
-- What APIs are and how to use them to get data from the internet.
-- What JSONs are and how to parse them using the Dart convert package.
-- How to pass data forwards and backwards between screens using the Navigator.
-- How to handle exceptions in Dart using try/catch/throw.
-- Learn about the lifecycle of Stateful Widgets and how to override them.
-- How to use the Geolocator package to get live location data for both iOS and Android.
-- How to use the TextField Widget to take user input.
+- use Dart to perform asynchronous tasks.
+- async and await.
+- Futures and how to work with them.
+- network with the Dart http package.
+- APIs are and how to use them to get data from the internet.
+- JSONs are and how to parse them using the Dart convert package.
+- pass data forwards and backwards between screens using the Navigator.
+- handle exceptions in Dart using try/catch/throw.
+- lifecycle of Stateful Widgets and how to override them.
+- Geolocator package to get live location data for both iOS and Android.
+- TextField Widget to take user input.
 
 
 
